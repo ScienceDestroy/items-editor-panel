@@ -10,11 +10,11 @@ Clone or download the project files to your local machine
 Open a terminal in the project directory and install the dependencies:
 
 
-npm install
+```npm install```
 To run the development server:
 
-npm run dev
+```npm run dev```
 To build for production and run locally:
 
-npm run build
+```npm run build```
 npm run preview
